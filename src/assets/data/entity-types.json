@@ -1,0 +1,68 @@
+[{
+	"id": 1,
+	"name": "Ground Vehicle"
+},
+{
+	"id": 2,
+	"name": "Air Vehicle"
+},
+{
+	"id": 3,
+	"name": "Light Infantry"
+},
+{
+	"id": 4,
+	"name": "Heavy Infantry"
+},
+{
+	"id": 5,
+	"name": "Mechanized Vehicle"
+},
+{
+	"id": 6,
+	"name": "Mechanized Infantry"
+},
+{
+	"id": 7,
+	"name": "Prototype Vehicle"
+},
+{
+	"id": 8,
+	"name": "Prototype Infantry"
+},
+{
+	"id": 9,
+	"name": "Prototype Air"
+},
+{
+	"id": 10,
+	"name": "Prototype Sniper"
+},
+{
+	"id": 11,
+	"name": "Anti-Air Mech"
+},
+{
+	"id": 12,
+	"name": "Anti-Personnel Mech"
+},
+{
+	"id": 13,
+	"name": "Alien Air Vehicle"
+},
+{
+	"id": 14,
+	"name": "Alien Vehicle"
+},
+{
+	"id": 15,
+	"name": "Alien Light Infantry"
+},
+{
+	"id": 16,
+	"name": "Alien Heavy Infantry"
+},
+{
+	"id": 17,
+	"name": "Mech Aircraft"
+}]

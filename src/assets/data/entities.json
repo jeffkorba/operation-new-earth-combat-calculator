@@ -1,0 +1,295 @@
+[{
+	"id": 1,
+	"name": "Armored Cars",
+	"type": 1,
+	"level": 1,
+	"stats": {
+		"attack": 1,
+		"defense": 1,
+		"health": 1,
+		"speed": 6,
+		"power": 2,
+		"load": 8
+	}
+},
+{
+	"id": 2,
+	"name": "AFVs",
+	"type": 1,
+	"level": 2,
+	"stats": {
+		"attack": 2,
+		"defense": 2,
+		"health": 2,
+		"speed": 6,
+		"power": 8,
+		"load": 10
+	}
+},
+{
+	"id": 3,
+	"name": "Heavy Tanks",
+	"type": 1,
+	"level": 3,
+	"stats": {
+		"attack": 3,
+		"defense": 3,
+		"health": 3,
+		"speed": 7,
+		"power": 20,
+		"load": 12
+	}
+},
+{
+	"id": 4,
+	"name": "Titan Tanks",
+	"type": 1,
+	"level": 4,
+	"stats": {
+		"attack": 4,
+		"defense": 4,
+		"health": 4,
+		"speed": 8,
+		"power": 36,
+		"load": 13
+	}
+},
+{
+	"id": 5,
+	"name": "Arachnaut",
+	"type": 1,
+	"level": 5,
+	"stats": {
+		"attack": 5,
+		"defense": 5,
+		"health": 5,
+		"speed": 9,
+		"power": 75,
+		"load": 26
+	}
+},
+{
+	"id": 6,
+	"name": "Scout Helicopters",
+	"type": 2,
+	"level": 1,
+	"stats": {
+		"attack": 1,
+		"defense": 1,
+		"health": 1,
+		"speed": 6,
+		"power": 2,
+		"load": 8
+	}
+},
+{
+	"id": 7,
+	"name": "Attack Helicopters",
+	"type": 2,
+	"level": 2,
+	"stats": {
+		"attack": 2,
+		"defense": 2,
+		"health": 2,
+		"speed": 6,
+		"power": 8,
+		"load": 10
+	}
+},
+{
+	"id": 8,
+	"name": "Jet Fighters",
+	"type": 2,
+	"level": 3,
+	"stats": {
+		"attack": 3,
+		"defense": 3,
+		"health": 3,
+		"speed": 7,
+		"power": 20,
+		"load": 12
+	}
+},
+{
+	"id": 9,
+	"name": "Advanced Interceptors",
+	"type": 2,
+	"level": 4,
+	"stats": {
+		"attack": 4,
+		"defense": 4,
+		"health": 4,
+		"speed": 8,
+		"power": 36,
+		"load": 13
+	}
+},
+{
+	"id": 10,
+	"name": "Solarwind Fighter",
+	"type": 2,
+	"level": 5,
+	"stats": {
+		"attack": 5,
+		"defense": 5,
+		"health": 5,
+		"speed": 9,
+		"power": 75,
+		"load": 26
+	}
+},
+{
+	"id": 000,
+	"name": "Armored Walker",
+	"type": 3,
+	"level": 000,
+	"stats": {
+		"attack": 4,
+		"defense": 4,
+		"health": 4,
+		"speed": 8,
+		"power": 36,
+		"load": 12
+	}
+},
+{
+	"id": 000,
+	"name": "Mobile Cannon Battery",
+	"type": 3,
+	"level": 4,
+	"stats": {
+		"attack": 5,
+		"defense": 3,
+		"health": 4,
+		"speed": 6,
+		"power": 36,
+		"load": 9
+	}
+},
+{
+	"id": 000,
+	"name": "XZ Fighter",
+	"type": 4,
+	"level": 000,
+	"stats": {
+		"attack": 4,
+		"defense": 4,
+		"health": 4,
+		"speed": 8,
+		"power": 36,
+		"load": 12
+	}
+},
+{
+	"id": 000,
+	"name": "Hornet",
+	"type": 4,
+	"level": 000,
+	"stats": {
+		"attack": 5,
+		"defense": 3,
+		"health": 4,
+		"speed": 8,
+		"power": 36,
+		"load": 11
+	}
+},
+{
+	"id": 000,
+	"name": "Firefly",
+	"type": 4,
+	"level": 000,
+	"stats": {
+		"attack": 4,
+		"defense": 3,
+		"health": 3,
+		"speed": 10,
+		"power": 36,
+		"load": 9
+	}
+},
+{
+	"id": 000,
+	"name": "Falcon",
+	"type": 4,
+	"level": 000,
+	"stats": {
+		"attack": 3,
+		"defense": 5,
+		"health": 4,
+		"speed": 9,
+		"power": 36,
+		"load": 10
+	}
+},
+{
+	"id": 11,
+	"name": "Robotic Soldier",
+	"type": 4,
+	"level": 4,
+	"stats": {
+		"attack": 4,
+		"defense": 4,
+		"health": 4,
+		"speed": 8,
+		"power": 36,
+		"load": 10
+	}
+},
+{
+	"id": 12,
+	"name": "Armored Walker",
+	"type": 4,
+	"level": 4,
+	"stats": {
+		"attack": 4,
+		"defense": 4,
+		"health": 4,
+		"speed": 8,
+		"power": 36,
+		"load": 12
+	}
+},
+
+{
+	"id": 14,
+	"name": "MLRS Walker",
+	"type": 4,
+	"level": 4,
+	"stats": {
+		"attack": 4,
+		"defense": 4,
+		"health": 4,
+		"speed": 7,
+		"power": 36,
+		"load": 14
+	}
+},
+{
+	"id": 15,
+	"name": "Battlewalker",
+	"type": 4,
+	"level": 4,
+	"stats": {
+		"attack": 4,
+		"defense": 4,
+		"health": 4,
+		"speed": 7,
+		"power": 36,
+		"load": 14
+	}
+},
+{
+	"id": 16,
+	"name": "Orbital Interceptor",
+	"type": 4,
+	"level": 5,
+	"stats": {
+		"attack": 5,
+		"defense": 5,
+		"health": 6,
+		"speed": 5,
+		"power": 75,
+		"load": 9
+	}
+},]
